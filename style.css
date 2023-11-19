@@ -1,0 +1,87 @@
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+.container{
+    width: 300px;
+    height: 450px;
+    background-color: #202020;
+    margin: auto;
+    border-radius: 15px;
+    padding: 3px;
+}
+p{
+    padding: 5px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin-top: 6px;
+    margin-left: 5px;
+}
+#screen{
+    margin-top: 2px;
+    margin: 10px;
+    width: 90%;
+    height: 60px;
+    font-size: 50px;
+    text-align: right;
+    padding-top: 10px;
+    background-color:#a7af7c;
+    border-radius: 10px;
+    box-shadow: inset 3px 10px 23px #202026;
+}
+
+
+
+.number-button{
+   
+   background-color: #fff4;
+    width: 65px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    color: #fff;
+    margin: 10p;
+    margin-left: 6px;
+    margin-top: 7px;
+    box-shadow: inset 17px 5px 15px #20201D;
+    5px 5px 12px rgba(0,0,0,0.16):;
+}
+.result-button{
+    
+    margin-top: 10px;
+    width: 138px;
+    border-radius: 10px;
+    height: 50px;
+    color: black;
+    margin-left: 4px;
+    font-size: 20p;
+    margin-top: 5px;
+    box-shadow: inset 6px 5px 8px 0px #202009;
+    5px 5px 12px rgba(0,0,0,0.16):;
+}
+.clear-button{
+
+    background-color: #f00;
+    width: 70px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+    color: #fff;
+    margin-right: 0px;
+    margin-left: 1px;
+    box-shadow: inset 2px 3px 12px #20201D;
+    5px 5px 12px rgba(0,0,0,0.16):;
+}
+.number-button:hover{
+    background-color:rgba(81, 64, 64, 0.267);
+    border:3px solid #fff;
+}
+.clear-button:hover{
+    background-color:rgba(81, 64, 64, 0.267);
+    border:3px solid #fff;
+}
+.result-button:hover{
+    background-color: rgba(81, 64, 64, 0.267);
+    border:3px solid #fff;
+}
